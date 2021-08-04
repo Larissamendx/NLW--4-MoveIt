@@ -38,7 +38,7 @@ As próximas atualizações serão voltadas nas seguintes tarefas:
 npm install -g yarn
 
 #Clone o repositório
-git clone https://github.com/LarissaCalmeida/Move-It
+git clone https://github.com/Larissamendx/Nlw--4-MoveIt.git
 
 #Entre na pasta clonada:
 cd Move-It
